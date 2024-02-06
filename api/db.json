@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "name": "brrrrr",
+      "occupation": "barmen",
+      "weapon": "bottle",
+      "cartoon": true,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": "3",
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "mari",
+      "occupation": "listener",
+      "weapon": "nothing",
+      "cartoon": false,
+      "id": "6109"
+    },
+    {
+      "name": "moloko",
+      "occupation": "fignma",
+      "weapon": "nothingtratatata",
+      "cartoon": true,
+      "id": "068b"
+    }
+  ]
+}
